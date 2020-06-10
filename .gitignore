@@ -1,4 +1,4 @@
 .pytest_cache
 report
-scripts
+.idea
 __pycache__
