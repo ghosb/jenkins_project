@@ -1,0 +1,4 @@
+.pytest_cache
+report
+scripts
+__pycache__
