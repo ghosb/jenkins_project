@@ -4,9 +4,10 @@ class TestLogin:
 
 
     def test_login_002(self):
-        assert 1
+        assert 0
 
     def test_login_003(self):
         assert 1
 
         '''https://github.com/ghosb/jenkins_project.git'''
+        '''ROHSTNCAQYRAWPVR'''
